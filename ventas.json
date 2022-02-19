@@ -1,0 +1,1450 @@
+
+[{
+    "folio": "1",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-11",
+    "giro": "AUTOSERVICIO,VTA.VINOS,LICORES,FARM.SODA"
+}, {
+    "folio": "3",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-02-09",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "6",
+    "tipo": "4",
+    "precio": "1344.02",
+    "descuento": "144.4",
+    "total": "1199.62",
+    "fechapago": "2004-01-29",
+    "giro": "COMERC.INDUST.Y TRANSP.DE PROD.AGRICOLAS"
+}, {
+    "folio": "11",
+    "tipo": "4",
+    "precio": "703",
+    "descuento": "80.3",
+    "total": "622.7",
+    "fechapago": "2004-02-09",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "12",
+    "tipo": "4",
+    "precio": "1056.08",
+    "descuento": "169.61",
+    "total": "886.4699999999999",
+    "fechapago": "2004-01-26",
+    "giro": "C\/V DE CALZADO"
+}, {
+    "folio": "1000",
+    "tipo": "4",
+    "precio": "760.3",
+    "descuento": "70.02",
+    "total": "690.28",
+    "fechapago": "2004-02-11",
+    "giro": "AUTOSERVICIO,VTA.VINOS,LICORES,FARM.SODA"
+}, {
+    "folio": "2000",
+    "tipo": "4",
+    "precio": "2010.11",
+    "descuento": "132.51",
+    "total": "1877.6",
+    "fechapago": "2004-02-18",
+    "giro": "DEPARTAMENTOS AMUEBLADOS"
+}, {
+    "folio": "3000",
+    "tipo": "4",
+    "precio": "819.6",
+    "descuento": "91.96",
+    "total": "727.64",
+    "fechapago": "2004-02-04",
+    "giro": "SUPER CON VENTA DE CERVEZA VINOS Y LICORES"
+}, {
+    "folio": "4000",
+    "tipo": "4",
+    "precio": "1056.09",
+    "descuento": "169.6",
+    "total": "886.4899999999999",
+    "fechapago": "2004-02-17",
+    "giro": "CENTRO DE ENSE\u00d1ANZA:CENTRO DE ENSE\u00d1ANZA ESCUELAS, INSTITUTOS Y ACADEMIAS"
+}, {
+    "folio": "4109",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "0",
+    "total": "700",
+    "fechapago": "2004-02-28",
+    "giro": "ALMACENES DE ROPA:TIENDA DE ROPA PARA DAMA, CABALLEROS Y NI\u00d1OS"
+}, {
+    "folio": "4110",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-02-28",
+    "giro": "ALMACENES DE ROPA:TIENDA DE ROPA PARA DAMA, CABALLEROS Y NI\u00d1OS"
+}, {
+    "folio": "4125",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "ABARROTES EN PEQUE\u00d1O: ABARROTES EN PEQUE\u00d1O Y ESTANQUILLO"
+}, {
+    "folio": "4128",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "0",
+    "total": "700",
+    "fechapago": "2004-02-28",
+    "giro": "COMPRA VENTA DE ROPA"
+}, {
+    "folio": "4129",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "0",
+    "total": "700",
+    "fechapago": "2005-01-13",
+    "giro": "FARMACIAS: BOTICAS DROGUERIAS,ARTICULOS DE TOCADOR,PERFUMERIA."
+}, {
+    "folio": "4130",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIAS: BOTICAS DROGUERIAS,ARTICULOS DE TOCADOR,PERFUMERIA."
+}, {
+    "folio": "4131",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "0",
+    "total": "700",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICINA Y ARTICULOS DE PERFUMERIA"
+}, {
+    "folio": "4132",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICINA Y ARTICULOS DE PERFUMERIA"
+}, {
+    "folio": "4133",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "0",
+    "total": "700",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICINA Y ARTICULOS DE PERFUMERIA"
+}, {
+    "folio": "4134",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICINA Y ARTICULOS DE PERFUMERIA"
+}, {
+    "folio": "4135",
+    "tipo": "4",
+    "precio": "800",
+    "descuento": "0",
+    "total": "800",
+    "fechapago": "2004-02-28",
+    "giro": "COMPRA VENTA DE ROPA"
+}, {
+    "folio": "4136",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-02-28",
+    "giro": "COMPRA VENTA DE ROPA"
+}, {
+    "folio": "4137",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "0",
+    "total": "900",
+    "fechapago": "2004-01-19",
+    "giro": null
+}, {
+    "folio": "4138",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-19",
+    "giro": null
+}, {
+    "folio": "4140",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-02-28",
+    "giro": "COMPRA VENTA DE ROPA"
+}, {
+    "folio": "4141",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "154",
+    "total": "746",
+    "fechapago": "2004-02-16",
+    "giro": "CV. DE MUEBLES Y ROPA"
+}, {
+    "folio": "4142",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-16",
+    "giro": "CV. DE MUEBLES Y ROPA"
+}, {
+    "folio": "4143",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "154",
+    "total": "746",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4144",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4145",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "154",
+    "total": "746",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4146",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4147",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "154",
+    "total": "746",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4148",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-16",
+    "giro": "C\/V DE MUEBLES Y ROPA"
+}, {
+    "folio": "4149",
+    "tipo": "4",
+    "precio": "900",
+    "descuento": "154",
+    "total": "746",
+    "fechapago": "2004-02-16",
+    "giro": "C\/VTA. DE CALZADO"
+}, {
+    "folio": "4150",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-16",
+    "giro": "C\/VTA. DE CALZADO"
+}, {
+    "folio": "4151",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-06",
+    "giro": "ABARROTES EN MENUDEO"
+}, {
+    "folio": "4155",
+    "tipo": "4",
+    "precio": "1547.22",
+    "descuento": "218.72",
+    "total": "1328.5",
+    "fechapago": "2004-01-05",
+    "giro": "CASA DE PRESTAMO Y VTA. DE JOYERIA"
+}, {
+    "folio": "4156",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-05",
+    "giro": "CASA DE PRESTAMO Y VTA. DE JOYERIA"
+}, {
+    "folio": "4157",
+    "tipo": "4",
+    "precio": "1547.22",
+    "descuento": "218.72",
+    "total": "1328.5",
+    "fechapago": "2004-01-05",
+    "giro": "PRESTAMOS, VENTA DE OBJETOS DIVERSOS"
+}, {
+    "folio": "4158",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-05",
+    "giro": "PRESTAMOS, VENTA DE OBJETOS DIVERSOS"
+}, {
+    "folio": "4159",
+    "tipo": "4",
+    "precio": "1151.91",
+    "descuento": "145.19",
+    "total": "1006.72",
+    "fechapago": "2004-01-06",
+    "giro": "SUPER MERCADO"
+}, {
+    "folio": "4160",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-06",
+    "giro": "SUPER MERCADO"
+}, {
+    "folio": "4161",
+    "tipo": "4",
+    "precio": "703",
+    "descuento": "80.3",
+    "total": "622.7",
+    "fechapago": "2004-01-06",
+    "giro": "PERFUMERIA"
+}, {
+    "folio": "4162",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-06",
+    "giro": "PERFUMERIA"
+}, {
+    "folio": "4163",
+    "tipo": "4",
+    "precio": "723",
+    "descuento": "102.3",
+    "total": "620.7",
+    "fechapago": "2004-01-06",
+    "giro": "COMPRA VENTA DE JUGUETES Y ARTICULOS DE IMPORTACION"
+}, {
+    "folio": "4164",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-06",
+    "giro": "COMPRA VENTA DE JUGUETES Y ARTICULOS DE IMPORTACION"
+}, {
+    "folio": "4165",
+    "tipo": "4",
+    "precio": "703",
+    "descuento": "80.3",
+    "total": "622.7",
+    "fechapago": "2004-01-06",
+    "giro": "JOYERIA"
+}, {
+    "folio": "4166",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-06",
+    "giro": "JOYERIA"
+}, {
+    "folio": "4167",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-06",
+    "giro": "C\/VTA. DE PRODUCTOS NATURALES"
+}, {
+    "folio": "4168",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-03-03",
+    "giro": "FARMACIAS: BOTICAS DROGUERIAS,ARTICULOS DE TOCADOR,PERFUMERIA."
+}, {
+    "folio": "4169",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "COMPRA-VENTA DE LENTES Y ACCS.OPTICOS"
+}, {
+    "folio": "4170",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "OPTICA"
+}, {
+    "folio": "4171",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "HOTEL"
+}, {
+    "folio": "4172",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA. DE ARTICULOS DE PLOMERIA"
+}, {
+    "folio": "4173",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRA-VENTA ADAPTACION DE ANTEOJOS"
+}, {
+    "folio": "4174",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA DE ROPA TIPICA"
+}, {
+    "folio": "4175",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRAVENTA DE BICICLERAS Y REFACCIONES"
+}, {
+    "folio": "4176",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "PINTURAS"
+}, {
+    "folio": "4177",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "SERVICIOS DE HOSPEDAJE"
+}, {
+    "folio": "4178",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRA VENTA DE CALZADO"
+}, {
+    "folio": "4179",
+    "tipo": "4",
+    "precio": "686.6",
+    "descuento": "132.66",
+    "total": "553.94",
+    "fechapago": "2004-01-08",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4180",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-08",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4181",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-08",
+    "giro": "IMPARTICION DE EDUCACION PRIMARIA"
+}, {
+    "folio": "4182",
+    "tipo": "4",
+    "precio": "703",
+    "descuento": "80.3",
+    "total": "622.7",
+    "fechapago": "2004-01-08",
+    "giro": "SERVICIO DE CAMBIO DE CHEQUES DLS GIROS"
+}, {
+    "folio": "4183",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "SERVICIO DE CAMBIO DE CHEQUES DLS GIROS"
+}, {
+    "folio": "4184",
+    "tipo": "4",
+    "precio": "1056.08",
+    "descuento": "169.61",
+    "total": "886.4699999999999",
+    "fechapago": "2004-01-08",
+    "giro": "SERVICIOS DE ASESORIA ADMON. ORGANIZ. EMPRESAS"
+}, {
+    "folio": "4185",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-08",
+    "giro": "SERVICIOS DE ASESORIA ADMON. ORGANIZ. EMPRESAS"
+}, {
+    "folio": "4186",
+    "tipo": "4",
+    "precio": "998.81",
+    "descuento": "109.88",
+    "total": "888.93",
+    "fechapago": "2004-01-08",
+    "giro": "C\/V CREMA, QUESO Y MANTEQUILLA"
+}, {
+    "folio": "4187",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/V CREMA, QUESO Y MANTEQUILLA"
+}, {
+    "folio": "4188",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRAVENTA DE ABARROTES"
+}, {
+    "folio": "4189",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "EXPENDIO DE PAN"
+}, {
+    "folio": "4190",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "VENTA DE FERTILIZANTES AGROQUIMICOS SEMILLAS"
+}, {
+    "folio": "4191",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA. DE ALIMENTOS PARA GANADO PORCINO AVES FORRAJES Y SEMILLAS"
+}, {
+    "folio": "4192",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA. DE REFACCIONES PARA AUTOS"
+}, {
+    "folio": "4193",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRA-VENTA DE PINTURAS"
+}, {
+    "folio": "4194",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "COMPRA-VENTA DE FRUTAS Y LEGUMBRES"
+}, {
+    "folio": "4195",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "VENTA DE PLANTAS NATURALES"
+}, {
+    "folio": "4196",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA. Y SACRIFICIO DE GANADO Y ABARROTES"
+}, {
+    "folio": "4197",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA.DE MEDICINA, PERFUMERIA"
+}, {
+    "folio": "4198",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "SEDERIA Y BONETERIA"
+}, {
+    "folio": "4199",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "C\/VTA. DE MEDICINA Y ACCES.PARA ANIMALES"
+}, {
+    "folio": "4200",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "SALON DE BELLEZA"
+}, {
+    "folio": "4201",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "ARRENDAMIENTO"
+}, {
+    "folio": "4202",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-08",
+    "giro": "DULCERIA"
+}, {
+    "folio": "4203",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "C\/VTA. DE ROPA Y ACCESORIOS PARA DAMA"
+}, {
+    "folio": "4204",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4205",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4206",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "C7VTA. DE MEDICAMENTOS Y PERFUMERIA"
+}, {
+    "folio": "4207",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "C7VTA. DE MEDICAMENTOS Y PERFUMERIA"
+}, {
+    "folio": "4208",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "COMPRA-VENTA DE MEDICINAS Y ARTS. DE PERFUMERIA"
+}, {
+    "folio": "4209",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "COMPRA-VENTA DE MEDICINAS Y ARTS. DE PERFUMERIA"
+}, {
+    "folio": "4210",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE PRODUCTOS FARMACEUTICOS Y PERFUMERIA"
+}, {
+    "folio": "4211",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE PRODUCTOS FARMACEUTICOS Y PERFUMERIA"
+}, {
+    "folio": "4212",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "COMPRA-VENTA DE MEDICINAS Y ARTS. DE PERFUMERIA"
+}, {
+    "folio": "4213",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "COMPRA-VENTA DE MEDICINAS Y ARTS. DE PERFUMERIA"
+}, {
+    "folio": "4214",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIAS"
+}, {
+    "folio": "4215",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIAS"
+}, {
+    "folio": "4216",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIAS"
+}, {
+    "folio": "4217",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIAS"
+}, {
+    "folio": "4218",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4219",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4220",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4221",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4222",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4223",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4224",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4225",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4226",
+    "tipo": "4",
+    "precio": "834",
+    "descuento": "147.4",
+    "total": "686.6",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4227",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4228",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4229",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4230",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4231",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4232",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICAMENTOS Y PERFUMERIA"
+}, {
+    "folio": "4233",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "C\/VTA. DE MEDICAMENTOS Y PERFUMERIA"
+}, {
+    "folio": "4234",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4235",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4236",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4237",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4238",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4239",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4240",
+    "tipo": "4",
+    "precio": "3264.09",
+    "descuento": "390.41",
+    "total": "2873.6800000000003",
+    "fechapago": "2004-01-28",
+    "giro": "TIENDA DEPARTAMENTAL"
+}, {
+    "folio": "4241",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-28",
+    "giro": "TIENDA DEPARTAMENTAL"
+}, {
+    "folio": "4242",
+    "tipo": "4",
+    "precio": "2536.03",
+    "descuento": "317.6",
+    "total": "2218.4300000000003",
+    "fechapago": "2004-01-13",
+    "giro": "ABARROTES POR MAYOREO"
+}, {
+    "folio": "4243",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-13",
+    "giro": "ABARROTES POR MAYOREO"
+}, {
+    "folio": "4244",
+    "tipo": "4",
+    "precio": "5390.3",
+    "descuento": "603.03",
+    "total": "4787.27",
+    "fechapago": "2004-01-15",
+    "giro": "DISTRIBUIDORA DE CERVEZA"
+}, {
+    "folio": "4245",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-15",
+    "giro": "DISTRIBUIDORA DE CERVEZA"
+}, {
+    "folio": "4246",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-19",
+    "giro": "PRESTADOR DE SERVICIO COMO ABOGADO"
+}, {
+    "folio": "4247",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-15",
+    "giro": "VENTA DE REGALOS Y NOVEDADES"
+}, {
+    "folio": "4248",
+    "tipo": "4",
+    "precio": "1670",
+    "descuento": "231",
+    "total": "1439",
+    "fechapago": "2004-06-01",
+    "giro": "C\/VTA. DE PRODUCTOS DE TABACO"
+}, {
+    "folio": "4249",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": "C\/VTA. DE PRODUCTOS DE TABACO"
+}, {
+    "folio": "4250",
+    "tipo": "4",
+    "precio": "2560",
+    "descuento": "286",
+    "total": "2274",
+    "fechapago": "2004-01-15",
+    "giro": "C\/VTA. DE TODA CLASE DE BIENES Y SERVICIOS"
+}, {
+    "folio": "4251",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-15",
+    "giro": "C\/VTA. DE TODA CLASE DE BIENES Y SERVICIOS"
+}, {
+    "folio": "4252",
+    "tipo": "4",
+    "precio": "1879",
+    "descuento": "251.9",
+    "total": "1627.1",
+    "fechapago": "2004-01-30",
+    "giro": "GASOLINERA"
+}, {
+    "folio": "4253",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": "GASOLINERA"
+}, {
+    "folio": "4254",
+    "tipo": "4",
+    "precio": "1384",
+    "descuento": "202.4",
+    "total": "1181.6",
+    "fechapago": "2004-01-30",
+    "giro": null
+}, {
+    "folio": "4255",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": null
+}, {
+    "folio": "4256",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": "VENTA DE GASOLINA"
+}, {
+    "folio": "4257",
+    "tipo": "4",
+    "precio": "1697.5",
+    "descuento": "233.75",
+    "total": "1463.75",
+    "fechapago": "2004-01-30",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "4258",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "4259",
+    "tipo": "4",
+    "precio": "1126.22",
+    "descuento": "122.62",
+    "total": "1003.6",
+    "fechapago": "2004-01-30",
+    "giro": "MINISUPER"
+}, {
+    "folio": "4260",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-30",
+    "giro": "MINISUPER"
+}, {
+    "folio": "4261",
+    "tipo": "4",
+    "precio": "780",
+    "descuento": "88",
+    "total": "692",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4262",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-26",
+    "giro": "FARMACIA"
+}, {
+    "folio": "4263",
+    "tipo": "4",
+    "precio": "1632.16",
+    "descuento": "227.22",
+    "total": "1404.94",
+    "fechapago": "2004-01-30",
+    "giro": "VENTA DE GASOLINA"
+}, {
+    "folio": "4264",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-27",
+    "giro": "ASESORIA FINANCIERA Y ADTIVA"
+}, {
+    "folio": "4265",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "ABARROTES"
+}, {
+    "folio": "4266",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-13",
+    "giro": "COMPRAVENTA DE MOTORES Y ARTS. DE PESCA"
+}, {
+    "folio": "4267",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "VENTA DE CEMENTO"
+}, {
+    "folio": "4268",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-23",
+    "giro": "SERVICIOS PROFES. DE TRANSPORTE URBANO"
+}, {
+    "folio": "4269",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-06",
+    "giro": "VENTA DE COMBUSTIBLE Y LUBRICANTES"
+}, {
+    "folio": "4270",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-03",
+    "giro": "COMPRA-VENTA DE FRUTAS Y VERDURAS"
+}, {
+    "folio": "4271",
+    "tipo": "4",
+    "precio": "700",
+    "descuento": "80",
+    "total": "620",
+    "fechapago": "2004-01-13",
+    "giro": "INMOBILIARIA: SECCION AMPI"
+}, {
+    "folio": "4272",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-13",
+    "giro": "INMOBILIARIA: SECCION AMPI"
+}, {
+    "folio": "4273",
+    "tipo": "4",
+    "precio": "1153",
+    "descuento": "179.3",
+    "total": "973.7",
+    "fechapago": "2004-01-30",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "4274",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": "SUPERMERCADO"
+}, {
+    "folio": "4275",
+    "tipo": "4",
+    "precio": "1009.01",
+    "descuento": "130.9",
+    "total": "878.11",
+    "fechapago": "2004-01-30",
+    "giro": "MINISUPER"
+}, {
+    "folio": "4276",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-30",
+    "giro": "MINISUPER"
+}, {
+    "folio": "4277",
+    "tipo": "4",
+    "precio": "1000",
+    "descuento": "110",
+    "total": "890",
+    "fechapago": "2004-01-28",
+    "giro": "TRANSPORTACION DE COMBUSTIBLES"
+}, {
+    "folio": "4278",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-28",
+    "giro": "TRANSPORTACION DE COMBUSTIBLES"
+}, {
+    "folio": "4279",
+    "tipo": "4",
+    "precio": "1000",
+    "descuento": "110",
+    "total": "890",
+    "fechapago": "2004-01-28",
+    "giro": "C\/VTA. DE COMBUSTIBLE"
+}, {
+    "folio": "4280",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-28",
+    "giro": "C\/VTA. DE COMBUSTIBLE"
+}, {
+    "folio": "4281",
+    "tipo": "4",
+    "precio": "944",
+    "descuento": "158.4",
+    "total": "785.6",
+    "fechapago": "2004-01-30",
+    "giro": null
+}, {
+    "folio": "4282",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-30",
+    "giro": null
+}, {
+    "folio": "4283",
+    "tipo": "4",
+    "precio": "1697.5",
+    "descuento": "233.75",
+    "total": "1463.75",
+    "fechapago": "2004-01-15",
+    "giro": "COMPRA-VENTA DE GASOLINA Y ACEITE"
+}, {
+    "folio": "4284",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-15",
+    "giro": "COMPRA-VENTA DE GASOLINA Y ACEITE"
+}, {
+    "folio": "4285",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-12",
+    "giro": "C\/VTA. DE MATERIALES PARA CONSTRUCCION"
+}, {
+    "folio": "4286",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-13",
+    "giro": "C\/V.DE MERCANCIA.GENERAL ROPA MUEBLES"
+}, {
+    "folio": "4287",
+    "tipo": "4",
+    "precio": "1056.08",
+    "descuento": "169.61",
+    "total": "886.4699999999999",
+    "fechapago": "2004-01-13",
+    "giro": "C\/V DE CALZADO"
+}, {
+    "folio": "4288",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-13",
+    "giro": "C\/V DE CALZADO"
+}, {
+    "folio": "4289",
+    "tipo": "4",
+    "precio": "2041.62",
+    "descuento": "268.16",
+    "total": "1773.4599999999998",
+    "fechapago": "2004-02-03",
+    "giro": "DISE\u00d1O Y FAB.C\/VTA.DIST.EXPORT.E IMPORT."
+}, {
+    "folio": "4290",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-02-03",
+    "giro": "DISE\u00d1O Y FAB.C\/VTA.DIST.EXPORT.E IMPORT."
+}, {
+    "folio": "4291",
+    "tipo": "4",
+    "precio": "1713.84",
+    "descuento": "235.38",
+    "total": "1478.46",
+    "fechapago": "2004-01-09",
+    "giro": "COMPRA-VENTA DE MATERIAL PARA HERRERIA"
+}, {
+    "folio": "4292",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-03-18",
+    "giro": "COMPRA-VENTA DE MATERIAL PARA HERRERIA"
+}, {
+    "folio": "4293",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-15",
+    "giro": "C\/VTA ZAPATOS ACCESORIOS"
+}, {
+    "folio": "4294",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-15",
+    "giro": "COMPRA-VENTA DE LENTES Y ACCS.OPTICOS"
+}, {
+    "folio": "4295",
+    "tipo": "5",
+    "precio": "300",
+    "descuento": "0",
+    "total": "300",
+    "fechapago": "2004-01-15",
+    "giro": "COMPRA Y VENTA DE ARMAZONES  OFTALMICOS"
+}, {
+    "folio": "4296",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-15",
+    "giro": "ROPA PRENDAS CUERO PIEL USADA"
+}, {
+    "folio": "4297",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-15",
+    "giro": "ROPA PRENDAS CUERO PIEL USADA"
+}, {
+    "folio": "4298",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-19",
+    "giro": "SERVICIOS DE EDUCACION Y ENSE\u00d1ANZA"
+}, {
+    "folio": "4299",
+    "tipo": "5",
+    "precio": "100",
+    "descuento": "0",
+    "total": "100",
+    "fechapago": "2004-01-15",
+    "giro": "TRANSPORTE URBANO DE PASAJEROS"
+}, {
+    "folio": "4300",
+    "tipo": "5",
+    "precio": "640",
+    "descuento": "0",
+    "total": "640",
+    "fechapago": "2004-01-13",
+    "giro": "COMPRA VENTA DE ROPA"
+}]
