@@ -45,7 +45,15 @@ const cargarTablaVentas = async()=>{
 
 function llenarTabla(data){
     //Limpiar tabla
-    document.getElementById("ventas").innerHTML=``;
+    document.getElementById("ventas").innerHTML=`<tr>
+                                                    <th>Folio</th>
+                                                    <th>Tipo</th>
+                                                    <th>Precio</th>
+                                                    <th>Descuento</th>
+                                                    <th>Total</th>
+                                                    <th>Fecha de pago</th>
+                                                    <th>Giro</th>
+                                                </tr>`;
     //Sacar el tipo del combox
     let tipo = document.getElementById("tipo").value;
     for(let item of data){
