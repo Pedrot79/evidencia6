@@ -1,6 +1,6 @@
 const cargarTipos = async()=>{
     try{
-        const url ="http://201.140.116.237/services/tipo.php"
+        const url ="https://secret-ocean-49799.herokuapp.com/http://201.140.116.237/services/tipo.php"
         await axios
         .get(url)
         .then((res)=>{
@@ -25,7 +25,7 @@ function llenarCombos(data){
 }
 
 const cargarTablaVentas = async()=>{
-    const urlVentas = "http://201.140.116.237/services/ventas.php"
+    const urlVentas = "https://secret-ocean-49799.herokuapp.com/http://201.140.116.237/services/ventas.php"
     try{
         await axios
         .get(urlVentas)
